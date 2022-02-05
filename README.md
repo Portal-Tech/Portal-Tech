@@ -1,4 +1,4 @@
-![Readme](https://i.imgur.com/ntzqMOm.png)
+![Readme](https://i.imgur.com/i092Enw.png)
 
 <div> 
   
