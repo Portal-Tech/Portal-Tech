@@ -33,10 +33,10 @@
  
 </div>
 
-[<img src="https://github.com/Portal-Tech/vectors1/blob/main/donate-gitbutton.svg" width="102"/>](https://pag.ae/7WriGyS13)
-[<img src="https://github.com/Portal-Tech/vectors1/blob/main/donate-gitbutton.svg" width="102"/>](https://pag.ae/7WriGyS13)
-[<img src="https://github.com/Portal-Tech/vectors1/blob/main/donate-gitbutton.svg" width="102"/>](https://pag.ae/7WriGyS13)
-[<img src="https://github.com/Portal-Tech/vectors1/blob/main/donate-gitbutton.svg" width="102"/>](https://pag.ae/7WriGyS13)
-[<img src="https://github.com/Portal-Tech/vectors1/blob/main/donate-gitbutton.svg" width="102"/>](https://pag.ae/7WriGyS13)
-[<img src="https://github.com/Portal-Tech/vectors1/blob/main/donate-gitbutton.svg" width="102"/>](https://pag.ae/7WriGyS13)
-[<img src="https://github.com/Portal-Tech/vectors1/blob/main/donate-gitbutton.svg" width="102"/>](https://pag.ae/7WriGyS13)
+[<img src="https://github.com/Portal-Tech/vectors1/blob/main/donate-gitbutton.svg" width="125"/>](https://pag.ae/7WriGyS13)
+[<img src="https://github.com/Portal-Tech/vectors1/blob/main/donate-gitbutton.svg" width="125"/>](https://pag.ae/7WriGyS13)
+[<img src="https://github.com/Portal-Tech/vectors1/blob/main/donate-gitbutton.svg" width="125"/>](https://pag.ae/7WriGyS13)
+[<img src="https://github.com/Portal-Tech/vectors1/blob/main/donate-gitbutton.svg" width="125"/>](https://pag.ae/7WriGyS13)
+[<img src="https://github.com/Portal-Tech/vectors1/blob/main/donate-gitbutton.svg" width="125"/>](https://pag.ae/7WriGyS13)
+[<img src="https://github.com/Portal-Tech/vectors1/blob/main/donate-gitbutton.svg" width="125"/>](https://pag.ae/7WriGyS13)
+[<img src="https://github.com/Portal-Tech/vectors1/blob/main/donate-gitbutton.svg" width="125"/>](https://pag.ae/7WriGyS13)
