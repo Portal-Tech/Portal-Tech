@@ -26,8 +26,8 @@
   <a href="https://tinyurl.com/linksportaltech" target="_blank"><img src=
 "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"
                                                          target="_blank"></a> <!-- WINDOWS -->
-  <a href="https://tinyurl.com/linksportaltech" target="_blank"><img src=
-"https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"
+  <a href="https://pag.ae/7WriGyS13" target="_blank"><img src=
+"https://github.com/Portal-Tech/vectors1/blob/main/donate-gitbutton.svg"
                                                          target="_blank"></a> <!-- PAYPAL -->
  
 </div>
