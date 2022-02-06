@@ -19,7 +19,7 @@
     <a href="https://www.twitch.tv/portaltech_oficial">
         <img src="https://github.com/Portal-Tech/vectors0/blob/main/twitch-gitbutton.svg" height="31">
     </a>
-    <a href="https://www.tiktok.com/@portaltech_">
+    <a href="https://www.tiktok.com/@portaltech_oficial">
         <img src="https://github.com/Portal-Tech/vectors0/blob/main/tiktok-gitbutton.svg" height="31">
     </a>
     <a href="https://discord.gg/zrxSnRYt2Z">
