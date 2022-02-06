@@ -1,6 +1,6 @@
 ### Início
 <a href="#"> 
-  <img src="https://github.com/Portal-Tech/vectors1/blob/main/teste_readme_svg2.svg" width="999"/> 
+  <img src="https://github.com/Portal-Tech/vectors0/blob/main/teste_readme_svg2.svg" width="999"/> 
 </a>
 
 
@@ -32,15 +32,15 @@
 "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"
                                                          target="_blank"></a> <!-- WINDOWS -->
   <a href="https://pag.ae/7WriGyS13" target="_blank"><img src=
-"https://github.com/Portal-Tech/vectors1/blob/main/donate-gitbutton.svg"
+"https://github.com/Portal-Tech/vectors0/blob/main/donate-gitbutton.svg"
                                                          target="_blank"></a> <!-- PAYPAL -->
  
 </div>
 
-[<img src="https://github.com/Portal-Tech/vectors1/blob/main/donate-gitbutton.svg" width="125"/>](https://pag.ae/7WriGyS13)
-[<img src="https://github.com/Portal-Tech/vectors1/blob/main/donate-gitbutton.svg" width="125"/>](https://pag.ae/7WriGyS13)
-[<img src="https://github.com/Portal-Tech/vectors1/blob/main/donate-gitbutton.svg" width="125"/>](https://pag.ae/7WriGyS13)
-[<img src="https://github.com/Portal-Tech/vectors1/blob/main/donate-gitbutton.svg" width="125"/>](https://pag.ae/7WriGyS13)
-[<img src="https://github.com/Portal-Tech/vectors1/blob/main/donate-gitbutton.svg" width="125"/>](https://pag.ae/7WriGyS13)
-[<img src="https://github.com/Portal-Tech/vectors1/blob/main/donate-gitbutton.svg" width="125"/>](https://pag.ae/7WriGyS13)
-[<img src="https://github.com/Portal-Tech/vectors1/blob/main/donate-gitbutton.svg" width="125"/>](https://pag.ae/7WriGyS13)
+[<img src="https://github.com/Portal-Tech/vectors0/blob/main/donate-gitbutton.svg" width="125"/>](https://pag.ae/7WriGyS13)
+[<img src="https://github.com/Portal-Tech/vectors0/blob/main/donate-gitbutton.svg" width="125"/>](https://pag.ae/7WriGyS13)
+[<img src="https://github.com/Portal-Tech/vectors0/blob/main/donate-gitbutton.svg" width="125"/>](https://pag.ae/7WriGyS13)
+[<img src="https://github.com/Portal-Tech/vectors0/blob/main/donate-gitbutton.svg" width="125"/>](https://pag.ae/7WriGyS13)
+[<img src="https://github.com/Portal-Tech/vectors0/blob/main/donate-gitbutton.svg" width="125"/>](https://pag.ae/7WriGyS13)
+[<img src="https://github.com/Portal-Tech/vectors0/blob/main/donate-gitbutton.svg" width="125"/>](https://pag.ae/7WriGyS13)
+[<img src="https://github.com/Portal-Tech/vectors0/blob/main/donate-gitbutton.svg" width="125"/>](https://pag.ae/7WriGyS13)
