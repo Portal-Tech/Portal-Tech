@@ -5,42 +5,32 @@
 
 
 # Links Úteis
-<div> 
-  
- <a href="https://tinyurl.com/linksportaltech" target="_blank"><img src=
- "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" 
-                                                         target="_blank"></a> <!-- YOUTUBE -->
- <a href="https://tinyurl.com/linksportaltech" target="_blank"><img src=
- "https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-                                                         target="_blank"></a> <!-- INSTAGRAM -->
- <a href="https://tinyurl.com/linksportaltech" target="_blank"><img src=
- "https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"
-                                                         target="_blank"></a> <!-- TWITCH -->
- <a href="https://tinyurl.com/linksportaltech" target="_blank"><img src=
-"https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
-                                                         target="_blank"></a> <!-- DISCORD -->
-  <a href = "mailto:portaltechgit@gmail.com"><img src=
-"https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-                                                         target="_blank"></a> <!-- GMAIL -->
-  <a href="https://tinyurl.com/linksportaltech" target="_blank"><img src=
-"https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
-                                                         target="_blank"></a> <!-- TWITTER -->
-  <a href="https://tinyurl.com/linksportaltech" target="_blank"><img src=
-"https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"
-                                                         target="_blank"></a> <!-- TIKTOK -->
-  <a href="https://tinyurl.com/linksportaltech" target="_blank"><img src=
-"https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"
-                                                         target="_blank"></a> <!-- WINDOWS -->
-  <a href="https://pag.ae/7WriGyS13" target="_blank"><img src=
-"https://github.com/Portal-Tech/vectors0/blob/main/donate-gitbutton.svg"
-                                                         target="_blank"></a> <!-- PAYPAL -->
- 
-</div>
 
-[<img src="https://github.com/Portal-Tech/vectors0/blob/main/youtubenormal-gitbutton.svg" height="28"/>](https://pag.ae/7WriGyS13)
-[<img src="https://github.com/Portal-Tech/vectors0/blob/main/instagram-gitbutton.svg" height="28"/>](https://www.instagram.com/portaltech_oficial/)
-[<img src="https://github.com/Portal-Tech/vectors0/blob/main/twitch-gitbutton.svg" height="28"/>](https://www.twitch.tv/portaltech_oficial)
-[<img src="https://github.com/Portal-Tech/vectors0/blob/main/tiktok-gitbutton.svg" height="28"/>](https://www.tiktok.com/@portaltech_)
-[<img src="https://github.com/Portal-Tech/vectors0/blob/main/donate-gitbutton.svg" height="28"/>](https://discord.gg/zrxSnRYt2Z)
-[<img src="https://github.com/Portal-Tech/vectors0/blob/main/donate-gitbutton.svg" height="28"/>](https://pag.ae/7WriGyS13)
-[<img src="https://github.com/Portal-Tech/vectors0/blob/main/donate-gitbutton.svg" height="28"/>](https://pag.ae/7WriGyS13)
+
+<p align="center" >
+    <a href="https://pag.ae/7WriGyS13">
+        <img src="https://github.com/Portal-Tech/vectors0/blob/main/youtubenormal-gitbutton.svg" height="37">
+    </a> 
+    <a href="https://www.instagram.com/portaltech_oficial/">
+        <img src="https://github.com/Portal-Tech/vectors0/blob/main/instagram-gitbutton.svg" height="37">
+    </a>
+    <a href="https://www.twitch.tv/portaltech_oficial">
+        <img src="https://github.com/Portal-Tech/vectors0/blob/main/twitch-gitbutton.svg" height="37">
+    </a>
+    <a href="https://www.tiktok.com/@portaltech_">
+        <img src="https://github.com/Portal-Tech/vectors0/blob/main/tiktok-gitbutton.svg" height="37">
+    </a>
+    <a href="https://discord.gg/zrxSnRYt2Z">
+        <img src="https://github.com/Portal-Tech/vectors0/blob/main/discord-gitbutton.svg" height="37">
+    </a>
+    <a href="mailto:portaltechgit@gmail.com">
+        <img src="https://github.com/Portal-Tech/vectors0/blob/main/gmail-gitbutton.svg" height="37">
+    </a>
+ <p>
+
+  <p align="center">
+    <br> <br>
+    <a href="https://pag.ae/7WriGyS13"> 
+  <img src="https://github.com/Portal-Tech/vectors0/blob/main/donate-gitbutton.svg" align="center" height="70">
+    </a>
+  </p>
