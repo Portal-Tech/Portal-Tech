@@ -8,7 +8,7 @@
 
 
 <p align="center" >
-    <a href="https://www.youtube.com/channel/UC7z1JWIpu-7eats7caMd1tw">
+    <a href="https://www.youtube.com/channel/UC7z1JWIpu-7eats7caMd1tw" target="blank">
         <img src="https://github.com/Portal-Tech/vectors0/blob/main/youtubenormal-gitbutton.svg" height="31">
     </a> 
     <a href="https://www.instagram.com/portaltech_oficial/">
