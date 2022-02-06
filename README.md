@@ -37,10 +37,10 @@
  
 </div>
 
-[<img src="https://github.com/Portal-Tech/vectors0/blob/main/donate-gitbutton.svg" width="125"/>](https://pag.ae/7WriGyS13)
-[<img src="https://github.com/Portal-Tech/vectors0/blob/main/donate-gitbutton.svg" width="125"/>](https://pag.ae/7WriGyS13)
-[<img src="https://github.com/Portal-Tech/vectors0/blob/main/donate-gitbutton.svg" width="125"/>](https://pag.ae/7WriGyS13)
-[<img src="https://github.com/Portal-Tech/vectors0/blob/main/donate-gitbutton.svg" width="125"/>](https://pag.ae/7WriGyS13)
-[<img src="https://github.com/Portal-Tech/vectors0/blob/main/donate-gitbutton.svg" width="125"/>](https://pag.ae/7WriGyS13)
-[<img src="https://github.com/Portal-Tech/vectors0/blob/main/donate-gitbutton.svg" width="125"/>](https://pag.ae/7WriGyS13)
-[<img src="https://github.com/Portal-Tech/vectors0/blob/main/donate-gitbutton.svg" width="125"/>](https://pag.ae/7WriGyS13)
+[<img src="https://github.com/Portal-Tech/vectors0/blob/main/youtubenormal-gitbutton.svg" height="28"/>](https://pag.ae/7WriGyS13)
+[<img src="https://github.com/Portal-Tech/vectors0/blob/main/instagram-gitbutton.svg" height="28"/>](https://www.instagram.com/portaltech_oficial/)
+[<img src="https://github.com/Portal-Tech/vectors0/blob/main/twitch-gitbutton.svg" height="28"/>](https://www.twitch.tv/portaltech_oficial)
+[<img src="https://github.com/Portal-Tech/vectors0/blob/main/tiktok-gitbutton.svg" height="28"/>](https://www.tiktok.com/@portaltech_)
+[<img src="https://github.com/Portal-Tech/vectors0/blob/main/donate-gitbutton.svg" height="28"/>](https://discord.gg/zrxSnRYt2Z)
+[<img src="https://github.com/Portal-Tech/vectors0/blob/main/donate-gitbutton.svg" height="28"/>](https://pag.ae/7WriGyS13)
+[<img src="https://github.com/Portal-Tech/vectors0/blob/main/donate-gitbutton.svg" height="28"/>](https://pag.ae/7WriGyS13)
