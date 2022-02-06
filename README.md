@@ -9,22 +9,22 @@
 
 <p align="center" >
     <a href="https://pag.ae/7WriGyS13">
-        <img src="https://github.com/Portal-Tech/vectors0/blob/main/youtubenormal-gitbutton.svg" height="33">
+        <img src="https://github.com/Portal-Tech/vectors0/blob/main/youtubenormal-gitbutton.svg" height="32">
     </a> 
     <a href="https://www.instagram.com/portaltech_oficial/">
-        <img src="https://github.com/Portal-Tech/vectors0/blob/main/instagram-gitbutton.svg" height="33">
+        <img src="https://github.com/Portal-Tech/vectors0/blob/main/instagram-gitbutton.svg" height="32">
     </a>
     <a href="https://www.twitch.tv/portaltech_oficial">
-        <img src="https://github.com/Portal-Tech/vectors0/blob/main/twitch-gitbutton.svg" height="33">
+        <img src="https://github.com/Portal-Tech/vectors0/blob/main/twitch-gitbutton.svg" height="32">
     </a>
     <a href="https://www.tiktok.com/@portaltech_">
-        <img src="https://github.com/Portal-Tech/vectors0/blob/main/tiktok-gitbutton.svg" height="33">
+        <img src="https://github.com/Portal-Tech/vectors0/blob/main/tiktok-gitbutton.svg" height="32">
     </a>
     <a href="https://discord.gg/zrxSnRYt2Z">
-        <img src="https://github.com/Portal-Tech/vectors0/blob/main/discord-gitbutton.svg" height="33">
+        <img src="https://github.com/Portal-Tech/vectors0/blob/main/discord-gitbutton.svg" height="32">
     </a>
     <a href="mailto:portaltechgit@gmail.com">
-        <img src="https://github.com/Portal-Tech/vectors0/blob/main/gmail-gitbutton.svg" height="33">
+        <img src="https://github.com/Portal-Tech/vectors0/blob/main/gmail-gitbutton.svg" height="32">
     </a>
  <p>
 
