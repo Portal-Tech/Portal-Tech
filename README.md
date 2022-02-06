@@ -1,3 +1,5 @@
+
+
 ### Início
 <a href="#"> 
   <img src="https://github.com/Portal-Tech/vectors0/blob/main/teste_readme_svg2.svg" width="999"/> 
@@ -8,7 +10,7 @@
 
 
 <p align="center" >
-    <a href="https://www.youtube.com/channel/UC7z1JWIpu-7eats7caMd1tw">
+    <a target="_blank" href="https://www.youtube.com/channel/UC7z1JWIpu-7eats7caMd1tw">
         <img src="https://github.com/Portal-Tech/vectors0/blob/main/youtubenormal-gitbutton.svg" height="31">
     </a> 
     <a href="https://www.instagram.com/portaltech_oficial/">
